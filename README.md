@@ -7,10 +7,12 @@ https://github.com/wbraganca/yii2-dynamicform - Dynamic Form Client Side
 https://www.yiiframework.com/doc/guide/2.0/en/input-form-javascript 
 
 https://github.com/yiisoft/yii2-httpclient - Yii2 HTTP Client
+https://www.yiiframework.com/doc/api/2.0/yii-filters-cors - Yii2 CORS
+https://www.yiiframework.com/wiki/2568/jwt-authentication-tutorial - JWT Authentication Tutorial
 
 https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/ - Setting your local machine localhost API - It will become accessible for outside server
 
-https://github.com/femibiwoye - REST API Tutor
+https://github.com/femibiwoye/ - REST API Tutor [check gradely-api, digital-advert, etc repo]
 
 https://www.freecodecamp.org/news/learn-flutter-full-course/
 
