@@ -26,3 +26,13 @@ https://business.paytm.com/docs - PayTM API
 mantra mfs100 - https://www.mantratec.com/Drivers-SDK - Mantra Device for finger print scanning.
 
 Search AWS Tutorial on Web
+
+MariaDB error : “InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB."
+Solution: 
+Step 1. Open xampp -> htdocs -> MySQL -> data
+Step 2. Delete all the files (Don’t touch any of the folders) except for
+the following files: aria_log.00000001, aria_log_control,
+ib_buffer_pool, ib_logfile0, ib_logfile1, ibdata1, ibtmp1,
+multi-master.info, my.ini, mysql.pid, mysql_error.
+Step 3. innodb_log_file_size=100M - Change this in my.ini file
+Step 4. Restart server
