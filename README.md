@@ -7,6 +7,7 @@ https://github.com/wbraganca/yii2-dynamicform - Dynamic Form Client Side
 https://www.yiiframework.com/doc/guide/2.0/en/input-form-javascript 
 
 https://github.com/yiisoft/yii2-httpclient - Yii2 HTTP Client
+https://github.com/yii2mod/yii2-swagger - API Documentation creation
 https://www.yiiframework.com/doc/api/2.0/yii-filters-cors - Yii2 CORS
 https://www.yiiframework.com/wiki/2568/jwt-authentication-tutorial - JWT Authentication Tutorial
 
@@ -17,6 +18,7 @@ https://github.com/femibiwoye/ - REST API Tutor [check gradely-api, digital-adve
 https://www.freecodecamp.org/news/learn-flutter-full-course/
 
 https://www.youtube.com/watch?v=j-LOab_PzzU - Flutter Hindi
+https://www.youtube.com/watch?v=THCkkQ-V1-8 - The Best Flutter Bloc Complete Course - Visualise, Understand, Learn & Practice Bloc Concepts
 
 https://medium.com/barisnurlu/flutter-how-to-create-hamburger-menu-6018b10741ff
 
