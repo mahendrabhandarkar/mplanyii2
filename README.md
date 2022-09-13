@@ -39,3 +39,7 @@ ib_buffer_pool, ib_logfile0, ib_logfile1, ibdata1, ibtmp1,
 multi-master.info, my.ini, mysql.pid, mysql_error.
 Step 3. innodb_log_file_size=100M - Change this in my.ini file
 Step 4. Restart server
+
+OR
+
+I went into my xampp/mysql/data folder and deleted the "multi-master.info" file, as well as all files which began with "master-" . I shut down all instances of XAMPP Control Panel, restarted it, and now MySQL loads properly.he also found a Stack Overflow thread on the error reported in the MariaDB code above, if it can help (it's for Xampp 3.2.1, but it likely still applies): https://stackoverflow.com/questions/50999358/xampp-mysql-not-starting-mysql-not-starting-on-xampp-3-2-1-version.
