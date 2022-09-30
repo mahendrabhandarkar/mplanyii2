@@ -27,6 +27,7 @@ RBL Bank API - For creating mutual fund portal - https://developer.rblbank.com/
 https://developer.icicibank.com/#/index - ICICI Bank APIs.
 https://business.paytm.com/docs - PayTM API
 mantra mfs100 - https://www.mantratec.com/Drivers-SDK - Mantra Device for finger print scanning.
+Aadhaar Enabled Payment System (AePS), Sec2Pay India E-services Private Limited (PAN verification API for eKYC), 
 
 Search AWS Tutorial on Web
 
