@@ -7,6 +7,9 @@ https://github.com/wbraganca/yii2-dynamicform - Dynamic Form Client Side
 https://www.yiiframework.com/doc/guide/2.0/en/input-form-javascript 
 
 https://github.com/yiisoft/yii2-httpclient - Yii2 HTTP Client
+https://www.yiiframework.com/doc/api/2.0/yii-behaviors-sluggablebehavior - 
+https://www.yiiframework.com/extension/yii2-widget-fileinput - 
+https://github.com/yiisoft/yii2-faker - 
 https://github.com/yii2mod/yii2-swagger - API Documentation creation
 https://github.com/hafriedlander/phockito - Phockito - Mockito for PHP
 https://www.yiiframework.com/doc/api/2.0/yii-filters-cors - Yii2 CORS
@@ -44,3 +47,13 @@ Step 4. Restart server
 OR
 
 I went into my xampp/mysql/data folder and deleted the "multi-master.info" file, as well as all files which began with "master-" . I shut down all instances of XAMPP Control Panel, restarted it, and now MySQL loads properly.he also found a Stack Overflow thread on the error reported in the MariaDB code above, if it can help (it's for Xampp 3.2.1, but it likely still applies): https://stackoverflow.com/questions/50999358/xampp-mysql-not-starting-mysql-not-starting-on-xampp-3-2-1-version.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+curl -i -H "Accept:application/xml" "http://localhost:94/v1/posts"
+
+curl -i -H "Accept:application/json" "http://localhost:94/v1/posts"
+
+curl -i -H "Accept:application/json" -X DELETE "http://localhost:94/v1/posts/1"
+
+curl -i -H "Accept:application/xml" "http://localhost:94/v1/posts"
+
+https://www.udemy.com/course/learning-path-yii-2-design-applications-with-php/ - Using Flash Messages, Multiple DB Connections, Rate Limiting,  Knowledge of blocks, Decorators, Partial View, Creating Widgets, Creating Modules, Fragmenting, Page Caching, and HTTP Caching. Unit Testing with Codeception, PHPUnit, Atoum, Behat. "Replication and Read-Write Splitting"
