@@ -10,6 +10,7 @@ https://github.com/yiisoft/yii2-httpclient - Yii2 HTTP Client
 https://www.yiiframework.com/doc/api/2.0/yii-behaviors-sluggablebehavior - 
 https://www.yiiframework.com/extension/yii2-widget-fileinput - 
 https://github.com/yiisoft/yii2-faker - 
+https://www.yiiframework.com/wiki/2568/jwt-authentication-tutorial - JWT Token
 https://github.com/yii2mod/yii2-swagger - API Documentation creation
 https://github.com/hafriedlander/phockito - Phockito - Mockito for PHP
 https://www.yiiframework.com/doc/api/2.0/yii-filters-cors - Yii2 CORS
