@@ -13,6 +13,14 @@ https://github.com/yiisoft/yii2-faker -
 https://www.yiiframework.com/wiki/2568/jwt-authentication-tutorial - JWT Token
 https://github.com/yii2mod/yii2-swagger - API Documentation creation
 https://github.com/hafriedlander/phockito - Phockito - Mockito for PHP
+Splunk and Kabbana - Log checking tool - Required when we have done deployment on AWS or Load Balancing sceanrios
+Log4J - Can use for log analysis in local server
+ 
+DevOps - TeamCity or Puppet and Jenkins - For Automatic Code deployment -
+Docker [Created Image need to be uploaded on server] and Kubernetes - 
+Zipkin Server or Jaeger - Is an application that monitors and manages the logs of your Spring Boot application.  
+isolt - 
+
 https://www.yiiframework.com/doc/api/2.0/yii-filters-cors - Yii2 CORS
 https://www.yiiframework.com/wiki/2568/jwt-authentication-tutorial - JWT Authentication Tutorial
 
@@ -58,3 +66,4 @@ curl -i -H "Accept:application/json" -X DELETE "http://localhost:94/v1/posts/1"
 curl -i -H "Accept:application/xml" "http://localhost:94/v1/posts"
 
 https://www.udemy.com/course/learning-path-yii-2-design-applications-with-php/ - Using Flash Messages, Multiple DB Connections, Rate Limiting,  Knowledge of blocks, Decorators, Partial View, Creating Widgets, Creating Modules, Fragmenting, Page Caching, and HTTP Caching. Unit Testing with Codeception, PHPUnit, Atoum, Behat. "Replication and Read-Write Splitting"
+
