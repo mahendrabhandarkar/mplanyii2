@@ -70,4 +70,4 @@ https://www.udemy.com/course/learning-path-yii-2-design-applications-with-php/ -
 https://themewagon.com/themes/template-collection-2022-one-hundred-free-html5-templates-in-one-bundle/ - Template Collection 2022 – One Hundred FREE HTML5 Templates in One Bundle
 Apache camel - whatever request come and we can route it easily. Example: REST change to SOAP easily.
 
-Unit Economics, Cash Burn Model, etc - Shark Tank
+Unit Economics, Cash Burn Model, Cap Capital, etc - Shark Tank
