@@ -521,9 +521,9 @@ class ProductServiceController extends Controller
         ]);
     }
 
-    // http://localhost:8080/service/v1/grameenPay/getProductConfiguration
-    // http://localhost:8080/service/v1/grameenPay/getProductConfiguration/3/4
-    // http://localhost:8080/service/v1/grameenPay/getProductConfiguration/3
+    // http://localhost:8080/service/v1/mPlan/getProductConfiguration
+    // http://localhost:8080/service/v1/mPlan/getProductConfiguration/3/4
+    // http://localhost:8080/service/v1/mPlan/getProductConfiguration/3
 
     public function actionProducts()
     {
