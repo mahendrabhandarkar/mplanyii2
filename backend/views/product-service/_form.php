@@ -44,6 +44,13 @@ $this->registerJs($js);
 
     <?= $form->field($model, 'override')->checkbox() ?>
 
+    <?= $form->field($model, 'product_id')->widget(Select2::classname(), [
+	'data'=>ArrayHelper::map(ProductMaster::find()->orderBy('product_name')->all(), 'product_id', 'product_name'),
+	'language'=>'en',
+	'options'=>['placeholder'=>'Select a product...','product_id'=>'product_id'],
+	'pluginOptions'=>['allowClear'=>true],
+	]); ?>
+
     <?= $form->field($model, 'product_id')->textInput() ?>
 
     <?= $form->field($model, 'service_name')->textInput(['maxlength' => true]) ?>
