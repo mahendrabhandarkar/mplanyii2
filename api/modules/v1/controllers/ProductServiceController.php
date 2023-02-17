@@ -534,6 +534,8 @@ class ProductServiceController extends Controller
             return (new ApiResponse)->success($dataProvider->getModels(), ApiResponse::SUCCESSFUL, 'Search result', $dataProvider);
         return (new ApiResponse)->error(null, ApiResponse::NO_CONTENT, 'No result');
     }
+    
+    // http://localhost:94/v1/product-service/product-by-service-id?product_service_id=60
     public function actionProductByServiceId($product_service_id)
     {
         $model = $this->findModel($product_service_id);
