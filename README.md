@@ -65,11 +65,21 @@ curl -i -H "Accept:application/json" -X DELETE "http://localhost:94/v1/posts/1"
 
 curl -i -H "Accept:application/xml" "http://localhost:94/v1/posts"
 
-https://www.udemy.com/course/learning-path-yii-2-design-applications-with-php/ - Using Flash Messages, Multiple DB Connections, Rate Limiting,  Knowledge of blocks, Decorators, Partial View, Creating Widgets, Creating Modules, Fragmenting, Page Caching, and HTTP Caching. Unit Testing with Codeception, PHPUnit, Atoum, Behat. "Replication and Read-Write Splitting"
+https://www.udemy.com/course/learning-path-yii-2-design-applications-with-php/ - Using Flash Messages, Multiple DB Connections, Rate Limiting,  Knowledge of blocks, Decorators, Partial View, Creating Widgets, Creating Modules, Fragmenting, Page Caching, and HTTP Caching. Unit Testing with Codeception, PHPUnit, Atoum, Behat. "Replication and Read-Write Splitting"<br />
 
-https://themewagon.com/themes/template-collection-2022-one-hundred-free-html5-templates-in-one-bundle/ - Template Collection 2022 – One Hundred FREE HTML5 Templates in One Bundle
-Apache camel - whatever request come and we can route it easily. Example: REST change to SOAP easily.
+https://themewagon.com/themes/template-collection-2022-one-hundred-free-html5-templates-in-one-bundle/ - Template Collection 2022 – One Hundred FREE HTML5 Templates in One Bundle<br />
+Apache camel - whatever request come and we can route it easily. Example: REST change to SOAP easily.<br />
 
-Unit Economics, Cash Burn Model, Cap Capital, etc - Shark Tank
+Unit Economics, Cash Burn Model, Cap Capital, etc - Shark Tank<br />
 
-https://github.com/shivamanhar/mplan-Matrimonial - MPLAN Matri
+https://github.com/shivamanhar/mplan-Matrimonial - MPLAN Matri<br />
+
+https://github.com/danielgross/whatsapp-gpt - Steps to Integrate chatgpt with whatsapp<br />
+Click “download zip”.<br />
+Open the “Whatsapp-gpt-main” file in the terminal.<br />
+Execute the “server.py” file in the terminal. <br />
+Enter “ls” and hit enter.<br />
+Enter “python server.py”.<br />
+Now your phone number is automatically configured to the OpenAI chat page. <br />
+Click on the “Verify I am a human” box.<br />
+Go to your WhatsApp account and you will find OpenAI ChatGPT.<br />
