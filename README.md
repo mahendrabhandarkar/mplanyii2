@@ -83,3 +83,5 @@ Enter “python server.py”.<br />
 Now your phone number is automatically configured to the OpenAI chat page. <br />
 Click on the “Verify I am a human” box.<br />
 Go to your WhatsApp account and you will find OpenAI ChatGPT.<br />
+
+Copilot X system [GitHub Copilot] plugin of chatgpt for VSCode<br />
