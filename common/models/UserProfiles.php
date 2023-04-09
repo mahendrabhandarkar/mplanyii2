@@ -106,4 +106,14 @@ class UserProfiles extends \yii\db\ActiveRecord
     {
         return $this->hasOne(Users::class, ['id'=>$this->user_id]);
     }
+
+    public function getHeights()
+    {
+        return $this->hasOne(Height::className(), ['id' => 'height']);
+    }
+
+    public function getMotherTongueId()
+    {
+        return $this->hasOne(MotherTongue::className(), ['id' => 'mother_tongue_id']);
+    }
 }

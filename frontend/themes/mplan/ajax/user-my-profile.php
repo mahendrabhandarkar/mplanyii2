@@ -13,11 +13,11 @@ use yii\widgets\DetailView;
         'attributes' => [
             'fullname',
 			'userProfiles.marital_status',
-			'userProfiles.height',
-			'userProfiles.mother_tongue_id',
+			'userProfiles.heights.global_height',
+			'userProfiles.motherTongueId.mtongue',
 			'userProfiles.skin_tone',
 			'userProfiles.body_type',
-			
+
 			'userProfiles.mother_tongue_id',
 			'userProfiles.mother_tongue_id',
             'email:email',

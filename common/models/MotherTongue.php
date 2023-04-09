@@ -48,7 +48,7 @@ class MotherTongue extends \yii\db\ActiveRecord
     {
         return [
             'id' => Yii::t('app', 'ID'),
-            'mtongue' => Yii::t('app', 'Mtongue'),
+            'mtongue' => Yii::t('app', 'Mother Tongue'),
         ];
     }
 
