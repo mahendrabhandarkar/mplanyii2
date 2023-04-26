@@ -85,3 +85,5 @@ Click on the “Verify I am a human” box.<br />
 Go to your WhatsApp account and you will find OpenAI ChatGPT.<br />
 
 Copilot X system [GitHub Copilot] plugin of chatgpt for VSCode<br />
+
+https://lms.mahaonline.gov.in/ ---- To know the process goto https://mahakamgar.maharashtra.gov.in/lc-registration-of-shops-and-establishments.htm --- Registration of Shops and Establishments <br />
