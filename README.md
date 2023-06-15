@@ -87,3 +87,7 @@ Go to your WhatsApp account and you will find OpenAI ChatGPT.<br />
 Copilot X system [GitHub Copilot] plugin of chatgpt for VSCode<br />
 
 https://lms.mahaonline.gov.in/ ---- To know the process goto https://mahakamgar.maharashtra.gov.in/lc-registration-of-shops-and-establishments.htm --- Registration of Shops and Establishments <br />
+
+configure database to allow remote connection:
+|postgres | postgresql.conf| change listen_address='* ' |
+| mongodb | mongod.conf | change bindIp: 127.0.0.1,mongodb_server_ip |
