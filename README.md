@@ -93,3 +93,18 @@ configure database to allow remote connection:
 | :------------ |:---------------:| -----:|
 |postgres | postgresql.conf| change listen_address='* ' |
 | mongodb | mongod.conf | change bindIp: 127.0.0.1,mongodb_server_ip |
+
+| command | description | example | extra points |
+| :------------ |:---------------:| -----:|
+| mvn clean packagename | Will create War file | mvn clean | |
+| docker version | will given docker version info | | |
+| docker build -t username/packagename:version . | Will create image | docker build -t mahendrab/maven-web-application:10 | |
+| docker login -u username | Will login via command prompt | docker login -u mahendrab | |
+| docker images ls | Will show available docker images | | | 
+| docker run -d --name maven-web-application -p internalport:externalport username/packagename:version | Will create and start container | docker run -d --name maven-web-application -p 8080:8080 mahendrab/maven-web-application:10 | |
+| docker ps -a | Running and Stop Container details | | |
+| docker rm -f containertag | Forcefully Removing via container id | | |
+| docker rmi imageid | Removing image | | | 
+| docker stop containername | Stop Container ID | | |
+| docker commit containerid username/maven-web-application:version | Create image from Container | docker commit c4ee325aae53 mahendrab/maven-web-application:8 | |
+| docker push username/packagename | Pushing Image to docker hub account | docker push mahendrab/maven-web-application:8 | |
