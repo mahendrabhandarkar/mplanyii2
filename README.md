@@ -95,7 +95,7 @@ configure database to allow remote connection:
 | mongodb | mongod.conf | change bindIp: 127.0.0.1,mongodb_server_ip |
 
 | command | description | example | extra points |
-| :------------ |:---------------:| -----:|
+| :------------ |:---------------:| -----:| -----:|
 | mvn clean packagename | Will create War file | mvn clean | |
 | docker version | will given docker version info | | |
 | docker build -t username/packagename:version . | Will create image | docker build -t mahendrab/maven-web-application:10 | |
